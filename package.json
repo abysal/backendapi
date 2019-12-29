@@ -1,21 +1,21 @@
 {
-  "name": "t2-backend-api-pradipkandel008",
+  "name": "backend-api",
   "version": "1.0.0",
-  "description": "Name: Pradip Kandel",
+  "description": "Name: Abhishek Rai",
   "main": "server.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stw304cem/t2-backend-api-pradipkandel008.git"
+    "url": "git+https://github.com/abysal/backendapi.git"
   },
-  "author": "pradip kandel",
+  "author": "Abhishek Rai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stw304cem/t2-backend-api-pradipkandel008/issues"
+    "url": "https://github.com/abysal/backendapi.git"
   },
-  "homepage": "https://github.com/stw304cem/t2-backend-api-pradipkandel008#readme",
+  "homepage": "https://github.com/abysal/backendapi.git",
   "dependencies": {
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
